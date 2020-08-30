@@ -13,7 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42893f6b-a4d0-446b-b758-c28d7cb776b4" name="Default Changelist" comment="" />
+    <list default="true" id="42893f6b-a4d0-446b-b758-c28d7cb776b4" name="Default Changelist" comment="versicon 1.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/EQUIPO/Desktop/ejemplo1/ejemplo1/ejemplo1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/EQUIPO/Desktop/ejemplo1/ejemplo1/ejemplo1/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,13 +83,43 @@
       <option name="presentableId" value="Default" />
       <updated>1598807381958</updated>
       <workItem from="1598807385820" duration="1379000" />
+      <workItem from="1598820691513" duration="358000" />
     </task>
+    <task id="LOCAL-00001" summary="nuevo">
+      <created>1598820845889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598820845889</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nuevo">
+      <created>1598820855511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598820855511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="versicon 1.1">
+      <created>1598820926019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598820926019</updated>
+    </task>
+    <task id="LOCAL-00004" summary="versicon 1.2">
+      <created>1598821034190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598821034190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -97,9 +131,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="nuevo" />
+    <MESSAGE value="versicon 1.1" />
+    <MESSAGE value="versicon 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="versicon 1.2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="237" key="#Notifications" timestamp="1598820782989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="237" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1598820782989" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598821039845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598821039845" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598820944961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598820944961" />
   </component>
 </project>
