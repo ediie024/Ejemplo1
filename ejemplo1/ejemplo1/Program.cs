@@ -13,6 +13,7 @@ namespace ejemplo1
                         Console.WriteLine("u");
                         Console.WriteLine("b");
                         Console.WriteLine("....");
+                        Console.WriteLine("....");
         }
     }
 }
